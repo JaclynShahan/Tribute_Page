@@ -1,0 +1,65 @@
+#img-div {
+    align-content: center;
+    text-align: center;
+    width: 100%;
+    
+  }
+  
+  img {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+  
+  #head-design {
+    background-color: pink;
+    height: 150px;
+    color: navy;
+    width: 100%;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: helvetica;
+    font-size: 50px;
+   
+  }
+  #box-design {
+    display: flex;
+    height: 100%;
+  }
+  #tribute-info {
+    font-size: 20px;
+    width: 50%;
+   float: right;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+   
+  }
+  
+  #end-view {
+   margin-top: 20px;
+    height: 50px;
+    width: 500%;
+   
+    bottom: 0;
+    
+  }
+  
+  #quote {
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    border-radius: 50%;
+    font-size: 25px;
+    margin-top: 30px;
+    color: navy;
+   
+  }
